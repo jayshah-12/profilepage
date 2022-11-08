@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Montserrat, sans-serif;
+    
+}
+.heading{
+    background-color: rgb(58, 57, 57);
+    color:  #F0FFF0;
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    height: 5em;
+    z-index: 2;
+}
+body{
+    background-color: #94cae4;
+}
+
+
+
+.sec_1{
+    margin-top: 7em;
+    justify-content: space-evenly;
+}
+
+.EDUCATION-DETAILS{
+    margin-top: 7em;
+    justify-content: space-evenly;
+}
+
+.intro_audio{
+    margin: 3em;
+    justify-content: space-evenly;
+}
+
+.intro_vide{
+    margin: 3em;
+    justify-content: space-evenly;
+}
