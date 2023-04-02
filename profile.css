@@ -15,6 +15,10 @@
     height: 5em;
     z-index: 2;
 }
+.photo{
+    resize: both;
+  overflow: auto;
+}
 body{
     background-color: #94cae4;
 }
